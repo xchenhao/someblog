@@ -80,10 +80,9 @@ deploy:
 
 # hexo-admin authentification
 admin:
-  username: barretlee
-  password_hash: $2a$10$FbsgxcpJq2waz3ztBIvQKeYMjyf7HugaMrNZHTaByD6FtZd8FE9EO
-  secret: barret lee's secret
-  deployCommand: cd ..; make d; make b P=1;
+  username: xchenhao
+  password_hash: $2a$10$pFoqgXqWQ1.kQOzZWoZzUOPe8ZueVyJ2d3WhoUr0aptfrCBBArOq.
+  secret: book's secret
 
 metadata:
   description: 小胡子哥的个人网站
